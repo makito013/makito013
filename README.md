@@ -1,5 +1,5 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm Bruno Andrade! 👋
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/makito013/&title=Profile%20Views)
 
 
 <a href="https://codesandbox.io/u/mikeeowino">
@@ -40,10 +40,8 @@ Hi, I'm bruno Andrade, a passionate self-taught full-stack web developer.
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOwino&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)
-![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=MikeOwino&count_private=true&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makito013&layout=compact&theme=highcontrast)](https://github.com/makito013/)
+![Makito013 github stats](https://github-readme-stats.vercel.app/api?username=Makito013&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
-Credits: [MikeOwino](https://github.com/MikeOwino)
-
-Last Edited on: 27/12/2020
+Credits: [Makito013](https://github.com/makito013)
