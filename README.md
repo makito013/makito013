@@ -29,7 +29,6 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 <img align="left" alt="MongoDB" width="24px" src="https://w7.pngwing.com/pngs/241/983/png-transparent-mongodb-nosql-database-computer-icons-others-leaf-grass-fruit.png" />
 <img align="left" alt="MySQL" width="24px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
-<img align="left" alt="C" width="24px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
 <img align="left" alt="C++" width="24px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="HTML" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
 <img align="left" alt="CSS" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />
