@@ -19,7 +19,7 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 
 ### Skills 👨‍💻
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
+
 <img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
 <img align="left" alt="NodeJs" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/node-dot-js.svg" />
 <img align="left" alt="PostgreSql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/postgresql.svg" />
