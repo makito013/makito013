@@ -26,7 +26,7 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 <img align="left" alt="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="Android" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270780.png" />
 <img align="left" alt="IOS" width="24px" src="https://cdn-icons-png.flaticon.com/512/882/882704.png" />
-<img align="left" alt="MongoDB" width="24px" src="https://e7.pngegg.com/pngimages/446/15/png-clipart-mongodb-phpmyadmin-database-computer-software-navicat-logo-robo.png" />
+<img align="left" alt="MongoDB" width="24px" src="https://hamsterlabs.de/_nuxt/img/mongo.2cf566a.png" />
 <img align="left" alt="MySQL" width="24px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
 <img align="left" alt="C++" width="24px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
