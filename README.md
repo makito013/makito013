@@ -20,19 +20,19 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 ### Skills 👨‍💻
 
 <img align="left" alt="Python" width="24px" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" />
-<img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
-<img align="left" alt="NodeJs" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/node-dot-js.svg" />
-<img align="left" alt="PostgreSql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/postgresql.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
-<img align="left" alt="IOS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/ios.svg" />
-<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
+<img align="left" alt="React" width="24px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
+<img align="left" alt="NodeJs" width="24px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+<img align="left" alt="PostgreSql" width="24px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
+<img align="left" alt="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+<img align="left" alt="Android" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270780.png" />
+<img align="left" alt="IOS" width="24px" src="https://cdn-icons-png.flaticon.com/512/882/882704.png" />
+<img align="left" alt="MongoDB" width="24px" src="https://w7.pngwing.com/pngs/241/983/png-transparent-mongodb-nosql-database-computer-icons-others-leaf-grass-fruit.png" />
+<img align="left" alt="MySQL" width="24px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
+<img align="left" alt="JavaScript" width="24px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
+<img align="left" alt="C" width="24px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
+<img align="left" alt="C++" width="24px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img align="left" alt="HTML" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
+<img align="left" alt="CSS" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />
 <br>
 <br>
 
