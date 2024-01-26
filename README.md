@@ -10,7 +10,7 @@ Hi, I'm bruno Andrade, a passionate self-taught full-stack web developer.
 
 I graduated in Mechatronics Engineering and during my training I discovered that my passion was programming.
 
-- 🔭 I'm currently providing service for companies Trinus, Cadmus and Pode Subir <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
+- 🔭 I've rocked some awesome projects for big names like Carrefour, General Motors, and Laboratório Pardine. Ready to bring that high-quality magic to your project too!
 - 🌱 I am focused on learning more and more about nodejs, react, react native, css and html.
 - 💬 Ask me about anything [here](https://github.com/makito013/makito013/issues)
 <br>
