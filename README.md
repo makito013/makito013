@@ -9,6 +9,7 @@
 Hi, I'm bruno Andrade, a passionate self-taught full-stack web developer.
 
 I graduated in Mechatronics Engineering and during my training I discovered that my passion was programming.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/bruno-andrade-almeida/)
 
 - 🔭 I've rocked some awesome projects for big names like Carrefour, General Motors, and Laboratório Pardine. Ready to bring that high-quality magic to your project too!
 - 🌱 I am focused on learning more and more about nodejs, react, react native, css and html.
