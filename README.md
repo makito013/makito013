@@ -14,8 +14,8 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 - 🌱 I am focused on learning more and more about nodejs, react, react native, css and html.
 - 💬 Ask me about anything [here](https://github.com/makito013/makito013/issues)
 - 🤖 I've developed two investment bots that are making waves in the market! Check out their high profitability in the results below:
-![Investment Bot 1 - Results 📈](https://www.mql5.com/pt/signals/2191482?source=Site+Signals+My)
-Investment Bot 2 - Results 📊
+[![Investment Bot 1 - Results 📈](https://github.com/makito013/makito013/blob/main/Captura%20de%20Tela%202024-01-26%20a%CC%80s%2016.01.28.png?raw=true)](https://www.mql5.com/pt/signals/2191482)
+[![Investment Bot 1 - Results 📈](https://github.com/makito013/makito013/blob/main/Captura%20de%20Tela%202024-01-26%20a%CC%80s%2016.01.51.png?raw=true)](https://www.mql5.com/pt/signals/2191472)
 <br>
 <br>
 <br>
