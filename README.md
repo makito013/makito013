@@ -13,6 +13,9 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 - 🔭 I've rocked some awesome projects for big names like Carrefour, General Motors, and Laboratório Pardine. Ready to bring that high-quality magic to your project too!
 - 🌱 I am focused on learning more and more about nodejs, react, react native, css and html.
 - 💬 Ask me about anything [here](https://github.com/makito013/makito013/issues)
+- 🤖 I've developed two investment bots that are making waves in the market! Check out their high profitability in the results below:
+Investment Bot 1 - Results 📈
+Investment Bot 2 - Results 📊
 <br>
 <br>
 <br>
