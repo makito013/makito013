@@ -32,7 +32,7 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 <img align="left" alt="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="Android" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270780.png" />
 <img align="left" alt="IOS" width="24px" src="https://cdn-icons-png.flaticon.com/512/882/882704.png" />
-<img align="left" alt="MySQL" height="48px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" />
+<img align="left" alt="MySQL" height="24px" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
 <img align="left" alt="C++" width="24px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="HTML" width="24px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
