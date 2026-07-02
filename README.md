@@ -13,12 +13,6 @@ I graduated in Mechatronics Engineering and during my training I discovered that
 - 💬 Ask me about anything [here](https://github.com/makito013/makito013/issues)
 - 🤖 I've developed two investment bots that are making waves in the market! Check out their high profitability in the results below:
   
-<a href="https://www.mql5.com/pt/signals/2191482">
-    <img src="https://github.com/makito013/makito013/blob/main/alphawave_trading.png?raw=true" alt="Investment Bot 1 - Results 📈" width="315">
-</a>
-<a href="https://www.mql5.com/pt/signals/2191472">
-    <img src="https://github.com/makito013/makito013/blob/main/quantumpulse_signals.png?raw=true" alt="Investment Bot 2 - Results 📈" width="315">
-</a>
 <br>
 <br>
 <br>
